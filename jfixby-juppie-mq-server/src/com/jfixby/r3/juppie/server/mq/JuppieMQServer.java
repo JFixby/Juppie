@@ -7,6 +7,7 @@ import com.jfixby.r3.api.ui.unit.UnitManager;
 public class JuppieMQServer implements Unit {
 
 	private JuppieMQServer (final JuppieMQServerSpecs specs) {
+
 	}
 
 	public JuppieMQServer newJuppieMQServer (final JuppieMQServerSpecs specs) {
