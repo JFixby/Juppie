@@ -1,9 +1,7 @@
 
 package com.jfixby.r3.juppie.server.transport.mq;
 
-import com.jfixby.r3.juppie.transport.api.JuppieTransport;
-
-public class JuppieMQTransport implements JuppieTransport {
+public class JuppieMQTransport {
 
 	private final String fileServer;
 	private final int brokerPort;
